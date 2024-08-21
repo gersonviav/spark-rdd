@@ -1,0 +1,1 @@
+spark-submit   personaYMetodosDePago.py  MetodoDePago.txt  comprasSinTDCMenoroIgualDe1500 comprasSinTDCMayorDe1500
